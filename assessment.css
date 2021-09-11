@@ -1,0 +1,33 @@
+img{
+    width: 200px;
+}
+
+/* うまく字形が変わらない
+p{
+    font-family: Arial,"fantasy";
+}
+h1{
+    font-family: Arial, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro","ＭＳ Ｐゴシック", "MS PGothic", sans-serif"fantasy";
+}
+*/
+
+body{
+    background-color: #40631394;
+    color: #fdffff;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+button{
+    padding: 5px 20px;
+    background-color: #cbc0ad;
+    border-style: none;
+    border-radius: 5px;
+    color: #191a1abe;
+}
+input{
+    height: 27px;
+    border-style: none;
+    border-radius: 5px;
+}
